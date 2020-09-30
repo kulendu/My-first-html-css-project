@@ -1,2 +1,2 @@
 # My-first-html-css-project
-leaning web development
+My first project while learning web development. This project is made only HTML and CSS
